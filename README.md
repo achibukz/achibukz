@@ -17,38 +17,38 @@
 
 ###
 
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+<div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-    <p>Arduino</p>
+    <span>Arduino</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-    <p>C</p>
+    <span>C</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-    <p>Go</p>
+    <span>Go</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-    <p>Java</p>
+    <span>Java</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-    <p>JavaScript</p>
+    <span>JavaScript</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-    <p>MySQL</p>
+    <span>MySQL</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-    <p>React</p>
+    <span>React</span>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-    <p>Python</p>
+    <span>Python</span>
   </div>
 </div>
 
@@ -58,22 +58,27 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aki-bukuhan-943a09248/" target="_blank">
+<div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:akibukzwork@gmail.com" target="_blank">
+    <span>LinkedIn</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/achibukz1/" target="_blank">
+    <span>Gmail</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/achibukz/" target="_blank">
+    <span>Facebook</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/achibukz" target="_blank">
+    <span>Instagram</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 8px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-  </a>
+    <span>Telegram</span>
+  </div>
 </div>
 
 ###
