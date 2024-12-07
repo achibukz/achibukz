@@ -18,21 +18,38 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+    <p>Arduino</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+    <p>C</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+    <p>Go</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+    <p>Java</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+    <p>JavaScript</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+    <p>MySQL</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+    <p>React</p>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 16px;">
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+    <p>Python</p>
+  </div>
 </div>
 
 ###
