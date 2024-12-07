@@ -18,37 +18,37 @@
 ###
 
 <div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-    <span>Arduino</span>
+    <span style="margin-left: 8px;">Arduino</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-    <span>C</span>
+    <span style="margin-left: 8px;">C</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-    <span>Go</span>
+    <span style="margin-left: 8px;">Go</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-    <span>Java</span>
+    <span style="margin-left: 8px;">Java</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-    <span>JavaScript</span>
+    <span style="margin-left: 8px;">JavaScript</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-    <span>MySQL</span>
+    <span style="margin-left: 8px;">MySQL</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-    <span>React</span>
+    <span style="margin-left: 8px;">React</span>
   </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
+  <div style="display: flex; align-items: center; margin-right: 16px;">
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-    <span>Python</span>
+    <span style="margin-left: 8px;">Python</span>
   </div>
 </div>
 
@@ -59,26 +59,5 @@
 ###
 
 <div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 16px;">
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-    <span>LinkedIn</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-    <span>Gmail</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-    <span>Facebook</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-    <span>Instagram</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-    <span>Telegram</span>
-  </div>
-</div>
-
-###
+  <div style="display: flex; align-items: center; margin-right: 16px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg
