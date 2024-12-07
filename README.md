@@ -13,50 +13,50 @@
 
 ###
 
-<div style="border: 2px solid #ffffff; border-radius: 10px; padding: 10px; margin-top: 20px;">
-  <h3 align="left">🩵| Language and Skills</h3>
+<h2 align="left">🩵| Language and Skills</h2>
 
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=go" height="25" alt="go logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
-    <img width="16" />
-    <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
-  </div>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
 
 ###
 
-<div style="border: 2px solid #ffffff; border-radius: 10px; padding: 10px; margin-top: 20px;">
-  <h3 align="left">🩵| Socials</h3>
+<h2 align="left">🩵| Socials</h2>
 
-  <div align="left">
-    <a href="https://www.linkedin.com/in/aki-bukuhan-943a09248/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:akibukzwork@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-    </a>
-    <a href="https://www.facebook.com/achibukz1/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
-    </a>
-    <a href="https://www.instagram.com/achibukz/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-    </a>
-    <a href="https://t.me/achibukz" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
-    </a>
-  </div>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aki-bukuhan-943a09248/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:akibukzwork@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/achibukz1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/achibukz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/achibukz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
